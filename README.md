@@ -6,8 +6,8 @@
 - Quick Sort
 - Merge Sort
 
-### This is built using HTML, CSS, JavaScript <br/>
+### This is build using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://github.com/SameerBaral/Sorting_Visualizer.git)
+[Check out the website here](https://sameerbaral.github.io/Sorting_Visualizer/)
 
 
